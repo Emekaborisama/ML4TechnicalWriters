@@ -21,13 +21,13 @@ ML4TW is an auxiliary tools to ease your writing process, we support technical w
 Features available 
 
 - Category classifier free
-- Tag classifer *free
+- Topic model for tags
 - Article Title generation *free
 - Plagiarism check *free
 - SEO check *paid
 - Social media caption Generation
 - SEO Prediction
-- View prediction 
+- Views prediction 
 - Sentiment of your article (professional, friendly, neutral, aggressive)
 
 
