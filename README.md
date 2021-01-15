@@ -4,9 +4,9 @@
 Task 
 
 
-Build models and apis for all the outlined features 
-Build a chrome extension 
-Build a webpage 
+- Build models and apis for all the outlined features 
+- Build a chrome extension 
+- Build a webpage 
 
 ##### Task Milestone 
 
