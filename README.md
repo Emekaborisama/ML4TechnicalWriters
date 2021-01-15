@@ -39,6 +39,9 @@ Features available
 - Views prediction 
 - Sentiment of your article (professional, friendly, neutral, aggressive)
 
+Other mergable features
+- Content idea generator
+
 
 
 
