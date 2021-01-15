@@ -1,7 +1,9 @@
-# ML4TechnicalWriters
+# ML4TechnicalWriters 
+
+##### From the creators of Twitter Thread Summarizer (Compress long twitter threads into a short story.)
 
 
-Task 
+###  Task 
 
 
 - Build models and apis for all the outlined features 
