@@ -17,5 +17,7 @@ Features available
 - Social media caption Generation
 - SEO Prediction
 - View prediction 
+- Sentiment of your article (professional, friendly, neutral, aggressive)
+
 
 
